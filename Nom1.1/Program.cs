@@ -1,0 +1,5 @@
+﻿Console.WriteLine("Программа которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа");
+Console.WriteLine("Введите число: ");
+int n;
+n = Convert.ToInt32(Console.ReadLine()); 
+Console.WriteLine(n.ToString()[1]);

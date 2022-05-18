@@ -1,0 +1,15 @@
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/bin/Debug/net6.0/Nom1
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/bin/Debug/net6.0/Nom1.deps.json
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/bin/Debug/net6.0/Nom1.runtimeconfig.json
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/bin/Debug/net6.0/Nom1.dll
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/bin/Debug/net6.0/Nom1.pdb
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.csproj.AssemblyReference.cache
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.AssemblyInfoInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.AssemblyInfo.cs
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.csproj.CoreCompileInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.dll
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/refint/Nom1.dll
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.pdb
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/Nom1.genruntimeconfig.cache
+/Users/mitya.kulikbk.ru/Desktop/HomeWorkC#/Nom1/obj/Debug/net6.0/ref/Nom1.dll
